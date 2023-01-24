@@ -1,3 +1,5 @@
 more content in file1
+conflict content 
 new content in dev branch
 new content in main
+more content in dev branch
